@@ -1,0 +1,6 @@
+url: https://github.com/Daphne999/dsh-safe-restart
+name: Daphne999/dsh-safe-restart
+category: tools
+description:
+  en: "Restart DeepSeek Harness gracefully: send WM_CLOSE to the main window, wait for every Electron process to exit, then relaunch. Written because force-killing from Task Manager skips flushes and leaves corrupt session logs and half-composed plugin bundles."
+  zh: '优雅重启 DSH：给主窗口发关闭消息 → 等所有 Electron 进程退干净 → 重新拉起。强杀会跳过会话写盘与插件组合，留下坏掉的会话记录和中断的 bundle。'
