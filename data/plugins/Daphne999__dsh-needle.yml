@@ -1,0 +1,6 @@
+url: https://github.com/Daphne999/dsh-needle
+name: Daphne999/dsh-needle
+category: session
+description:
+  en: 'Hidden-needs radar for DSH: reads local session logs, groups repeated tool failures, repeated requests and user corrections by a stability bar, and renders product briefs with redacted evidence and a suggested delivery form (plugin / skill / config / docs). Read-only, offline, no model calls.'
+  zh: '隐含需求雷达：只读本机会话日志，按稳定阈值归并反复出现的工具失败、重复请求与用户纠正，产出带脱敏证据和交付形态建议（插件 / skill / 配置 / 文档）的需求简报。只读、离线、不调用模型。'
